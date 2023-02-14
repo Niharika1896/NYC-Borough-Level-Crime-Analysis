@@ -3,7 +3,7 @@ Descriptive analytics show the existing trend of schooling, alcohol consumption 
 We implemented predictive analytics models (classification models) to understand the type of crime occurring in the boroughs based on these factors.
 
 Major steps through the project lifecycle:
-1.	Data aggregation: 6 types of datasets considered, giving a total of more than 10 million datapoints. 
+1.	*Data aggregation*: 6 types of datasets considered, giving a total of more than 10 million datapoints. 
 i.	NYPD Arrests data(historic)
 ii.	NYPD Shooting Incidents data(historic)
 iii.	NYPD Hate Crimes 
